@@ -1,0 +1,27 @@
+.navbar-collapse {
+    padding-left: 0px !important;
+}
+
+.qs-site-logo, .header_site {
+    margin: 40px 0;
+    margin: 2.5rem 0;
+}
+
+.d-block {
+    display: block!important;
+}
+.interior-featured-bg{
+    background-image: url("../img/Arizona-Campus.png");
+    clear: both;
+    height: 180px;
+    width: 100%;
+    background-size: cover;
+    background-repeat:no-repeat;
+    background-position:50% 90%;
+   
+}
+
+.margin {
+    margin-top: 50.016px;
+}
+

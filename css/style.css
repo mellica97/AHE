@@ -1,27 +1,35 @@
 .navbar-collapse {
-    padding-left: 0px !important;
+  padding-left: 0px !important;
 }
 
-.qs-site-logo, .header_site {
-    margin: 40px 0;
-    margin: 2.5rem 0;
+.qs-site-logo,
+.header_site {
+  margin: 40px 0;
+  margin: 2.5rem 0;
 }
 
 .d-block {
-    display: block!important;
+  display: block !important;
 }
-.interior-featured-bg{
-    background-image: url("../img/Arizona-Campus.png");
-    clear: both;
-    height: 180px;
-    width: 100%;
-    background-size: cover;
-    background-repeat:no-repeat;
-    background-position:50% 90%;
-   
+.interior-featured-bg {
+  background-image: url("../img/Arizona-Campus.png");
+  clear: both;
+  height: 180px;
+  width: 100%;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: 50% 90%;
 }
 
 .margin {
-    margin-top: 50.016px;
+  margin-top: 50.016px;
 }
 
+.card {
+  min-width: 250px;
+  max-width: 250px;
+}
+
+p {
+  text-align: justify;
+}

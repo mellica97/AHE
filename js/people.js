@@ -2,7 +2,7 @@ const faculty = [
   {
     fullName: "Gregory Heileman",
     bio: "PhD in computer engineering, University of Central Florida, 1989, MS in biomedical engineering and mathematics, University of North Carolina at Chapel Hill, 1986, His research includes Machine learning and data analytics, information security",
-    image: "Greg-Heileman.jpg",
+    image: "Greg-Heileman.png",
   },
 ];
 const studnets = [
